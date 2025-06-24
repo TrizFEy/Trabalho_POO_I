@@ -1,0 +1,10 @@
+Qual a capital do Brasil?;Rio de Janeiro;Brasília;São Paulo;Belo Horizonte;1;facil
+Quem pintou a Monalisa?;Vincent van Gogh;Leonardo da Vinci;Pablo Picasso;Claude Monet;1;facil
+Qual o maior animal terrestre?;Elefante africano;Girafa;Rinoceronte branco;Urso polar;0;facil
+Quantos corações tem um polvo?;1;2;3;4;2;dificil
+Qual o elemento químico com o símbolo "Fe"?;Cobre;Ferro;Ouro;Prata;1;dificil
+Quem escreveu a peça "Romeu e Julieta"?;Jane Austen;Charles Dickens;William Shakespeare;F. Scott Fitzgerald;2;facil
+Qual o planeta mais próximo do Sol?;Terra;Marte;Vênus;Mercúrio;3;dificil
+Em que ano o homem pisou na Lua pela primeira vez?;1965;1969;1972;1961;1;facil
+Qual o nome do processo pelo qual as plantas produzem seu próprio alimento?;Respiração;Transpiração;Fotossíntese;Germinação;2;dificil
+Qual a montanha mais alta do mundo?;K2;Monte Kilimanjaro;Everest;Mont Blanc;2;dificil
